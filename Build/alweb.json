@@ -1,0 +1,11 @@
+{
+"companyName": "miisfactory",
+"productName": "angellover",
+"dataUrl": "alweb.data.unityweb",
+"asmCodeUrl": "alweb.asm.code.unityweb",
+"asmMemoryUrl": "alweb.asm.memory.unityweb",
+"asmFrameworkUrl": "alweb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
